@@ -64,8 +64,6 @@
 <p align="center">
   📧 <strong>Hilarimedina0922@gmail.com</strong><br>
   🌍 <strong>Santo Domingo, RD</strong><br>
-  💼 <a href="mailto:20221025@itla.edu.do"><strong>20221025@itla.edu.do</strong></a><br>
-  💻 <a href="https://github.com/HilariMF" target="_blank"><strong>GitHub: HilariMF</strong></a>
 </p>
 
 ---
