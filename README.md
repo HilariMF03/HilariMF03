@@ -62,10 +62,7 @@
 <h2 align="center" style="color: #d26b8c;">📬 Contacto</h2>
 <p align="center">
   📧 <a href="mailto:Hilarimedina0922@gmail.com" style="color: #d26b8c;"><strong>Hilarimedina0922@gmail.com</strong></a><br>
-  📱 <strong style="color: #d26b8c;">829-933-4951</strong><br>
-  🌍 <strong style="color: #d26b8c;">Av. José Contreras, Santo Domingo, RD</strong><br>
-  💼 <a href="mailto:20221025@itla.edu.do" style="color: #d26b8c;"><strong>20221025@itla.edu.do</strong></a><br>
-  💻 <a href="https://github.com/HilariMF" target="_blank" style="color: #d26b8c;"><strong>GitHub: HilariMF</strong></a>
+  🌍 <strong style="color: #d26b8c;"> Santo Domingo, RD</strong><br>
 </p>
 
 ---
