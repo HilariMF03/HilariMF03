@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HilariMF&show_icons=true&theme=rose_pine" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HilariMF&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 
 <p align="center">✨ ¡Gracias por visitar mi perfil! ✨</p>
