@@ -26,16 +26,16 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>Gestión de Inventarios</strong></td>
+        <td><strong>AgroSmart</strong></td>
         <td>C#, ASP.NET, SQL Server</td>
-        <td>Plataforma para optimizar la gestión y el control de inventarios empresariales.</td>
-        <td><a href="https://github.com/tu-repo-inventario" target="_blank" style="color: #d26b8c;">Ver Proyecto</a></td>
+        <td>Proyecto final universitario. Plataforma web para gestionar tareas, clima, cultivos y comunidad en el sector agrícola.</td>
+        <td><a href="https://github.com/HilariMF03/ProyectoFinal-AgroSmart" target="_blank" style="color: #d26b8c;">Ver Proyecto</a></td>
       </tr>
       <tr>
-        <td><strong>Plataforma Educativa</strong></td>
-        <td>Node.js, JavaScript, Docker</td>
-        <td>Solución innovadora para personalizar contenidos educativos.</td>
-        <td><a href="https://github.com/tu-repo-educacion" target="_blank" style="color: #d26b8c;">Ver Proyecto</a></td>
+        <td><strong>Prácticas LeetCode</strong></td>
+        <td>C#</td>
+        <td>Repositorio con soluciones a problemas de algoritmos y estructuras de datos resueltos en LeetCode para fortalecer la lógica de programación.</td>
+        <td><a href="https://github.com/HilariMF03/LeetCode-Practice" target="_blank" style="color: #d26b8c;">Ver Proyecto</a></td>
       </tr>
     </tbody>
   </table>
