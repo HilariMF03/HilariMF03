@@ -9,10 +9,9 @@
 <h2 align="center" style="color: #d26b8c;">🌟 Sobre Mí</h2>
 <p align="center">
   Soy <strong>Hilari Medina Feliz</strong>, una desarrolladora de software apasionada por crear soluciones tecnológicas que marquen la diferencia.  
-  Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como <strong>C#, .NET, SQL Server y Docker</strong>, y me encuentro en constante aprendizaje para ampliar mis habilidades.
 </p>
 <p align="center">
-  Me encanta trabajar en equipo, resolver problemas de manera creativa y contribuir a proyectos que tengan un impacto real. Actualmente me estoy enfocando en fortalecer mis competencias en estructuras de datos, algoritmos y arquitectura de software.
+  Me encanta trabajar en equipo, resolver problemas de manera creativa y contribuir a proyectos que tengan un impacto real.
 </p>
 
 ---
