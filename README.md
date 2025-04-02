@@ -1,5 +1,5 @@
 <!-- Portafolio Profesional en GitHub en proceso...-->
-<h1 align="center" style="color: #d26b8c;">🌸 Hola, soy Hilari Medina Feliz 👩‍💻</h1>
+<h1 align="center" style="color: #d26b8c;"> Hola, soy Hilari Medina Feliz 👩‍💻</h1>
 <p align="center">
   <em>Apasionada desarrolladora de software, enfocada en crear soluciones tecnológicas innovadoras y eficientes.</em>
 </p>
