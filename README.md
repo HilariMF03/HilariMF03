@@ -42,10 +42,10 @@
         <td><a href="https://github.com/HilariMF03/LeetCode-Practice" target="_blank" style="color: #d26b8c;">Ver Proyecto</a></td>
       </tr>
      <tr>
-        <td><strong>Microservicio-GeneralLog</strong></td>
-        <td>C#</td>
-        <td>Repositorio con soluciones a problemas de algoritmos y estructuras de datos resueltos en LeetCode para fortalecer la lógica de programación.</td>
-        <td><a href="https://github.com/HilariMF03/LeetCode-Practice" target="_blank" style="color: #d26b8c;">Ver Proyecto</a></td>
+        <td><strong>Microservicio - GeneralLog</strong></td>
+        <td>C#, .NET, MongoDB</td>
+        <td>Microservicio que registra y consulta logs de sistemas externos mediante una API REST, utilizando MongoDB para trazabilidad de operaciones por cédula, RNC o Pasaporte.</td>
+        <td><a href="https://github.com/HilariMF03/GeneralLog" target="_blank" style="color: #d26b8c;">Ver Proyecto</a></td>
       </tr>
     </tbody>
   </table>
