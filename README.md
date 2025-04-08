@@ -74,9 +74,9 @@
 </p>
 
 ---
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HilariMF&show_icons=true&theme=radical" alt="stats"/>
 </p>
-
+-->
 <p align="center" style="color: #d26b8c;">✨ ¡Gracias por visitar mi perfil! ✨</p>
